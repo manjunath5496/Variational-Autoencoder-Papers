@@ -787,14 +787,14 @@ Quasi-symplectic Langevin Variational Autoencoder</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(425).pdf" style="text-decoration:none;">Deep Transparent Prediction through Latent Representation Analysis</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(426).pdf" style="text-decoration:none;">STL-SGD: Speeding Up Local SGD with Stagewise Communication Period</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(426).pdf" style="text-decoration:none;">Decoupling Representation Learning from Reinforcement Learning</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(427).pdf" style="text-decoration:none;"> Towards Flexible Device Participation in Federated Learning for Non-IID Data </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(428).pdf" style="text-decoration:none;">Heterogeneity-Aware Federated Learning</a></li>                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(429).pdf" style="text-decoration:none;">Backdoor Attacks on Federated Meta-Learning</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(430).pdf" style="text-decoration:none;">Distributed Differentially Private Averaging with Improved Utility and Robustness to Malicious Parties</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(431).pdf" style="text-decoration:none;">Ensemble Distillation for Robust Model Fusion in Federated Learning</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(432).pdf" style="text-decoration:none;">FLeet: Online Federated Learning via Staleness Awareness and Performance Prediction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(427).pdf" style="text-decoration:none;"> Improving Robustness and Generality of NLP Models Using Disentangled Representations</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(428).pdf" style="text-decoration:none;">Hierarchical Sparse Variational Autoencoder for Text Encoding</a></li>                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(429).pdf" style="text-decoration:none;">Embedding and generation of indoor climbing routes with variational autoencoder</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(430).pdf" style="text-decoration:none;">Targeted VAE: Structured Inference and Targeted Learning for Causal Parameter Estimation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(431).pdf" style="text-decoration:none;">Physics-Constrained Predictive Molecular Latent Space Discovery with Graph Scattering Variational Autoencoder</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(432).pdf" style="text-decoration:none;">RG-Flow: A hierarchical and explainable flow model based on renormalization group and sparse prior</a></li>
 
 
                               
