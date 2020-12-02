@@ -1159,6 +1159,31 @@ in Probabilistic Machine Learning</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(624).pdf" style="text-decoration:none;">A Semi-supervised Deep Generative Model for Human Body Analysis</a></li> 
  
  
+    
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(625).pdf" style="text-decoration:none;">Comment: Variational Autoencoders as Empirical Bayes</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(626).pdf" style="text-decoration:none;">Complex-Valued Variational Autoencoder: A Novel Deep Generative Model for Direct Representation of Complex Spectra</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(627).pdf" style="text-decoration:none;">Adaptive Neural Speech Enhancement with a Denoising Variational Autoencoder</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(628).pdf" style="text-decoration:none;">Self-supervised learning of a facial attribute embedding from video</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(629).pdf" style="text-decoration:none;">Linked Variational AutoEncoders for Inferring Substitutable and Supplementary Items</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(630).pdf" style="text-decoration:none;">TransGaGa: Geometry-Aware Unsupervised Image-to-Image Translation</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(631).pdf" style="text-decoration:none;">Learning Latent Representations to Influence Multi-Agent Interaction</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(632).pdf" style="text-decoration:none;">Bridged Variational Autoencoders for Joint Modeling of Images and Attributes</a></li> 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(633).pdf" style="text-decoration:none;">Disentangled Representations for Sequence Data using Information Bottleneck Principle</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(634).pdf" style="text-decoration:none;">Deep Clustering by Gaussian Mixture Variational Autoencoders with Graph Embedding</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(635).pdf" style="text-decoration:none;">Disentangling Latent Hands for Image Synthesis and Pose Estimation</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(636).pdf" style="text-decoration:none;">Variational Few-Shot Learning</a></li> 
+ 
+ 
+ 
  </ul>
 
 
