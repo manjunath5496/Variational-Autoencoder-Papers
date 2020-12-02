@@ -1117,17 +1117,17 @@ in Probabilistic Machine Learning</a></li>
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(600).pdf" style="text-decoration:none;">Learning to Disentangle Factors of Variation with Manifold Interaction</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(575).pdf" style="text-decoration:none;">Variational Temporal Abstraction</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(576).pdf" style="text-decoration:none;">CompRess: Self-Supervised Learning by Compressing Representations</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(577).pdf" style="text-decoration:none;">Exemplar VAE: Linking Generative Models, Nearest Neighbor Retrieval, and Data Augmentation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(601).pdf" style="text-decoration:none;">Semi-supervised Learning With Temporal Variational Auto-encoders For The Diagnosis Of Failure Severities And The Prognosis Of Remaining Useful Life</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(602).pdf" style="text-decoration:none;">Deep Generative Video Compression with Temporal Autoregressive Transforms</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(603).pdf" style="text-decoration:none;">Deep Latent-Variable Models for Natural Language Understanding and Generation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(578).pdf" style="text-decoration:none;">Gradient Boosted Normalizing Flows</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(604).pdf" style="text-decoration:none;">Neural Face Editing with Intrinsic Image Disentangling</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(579).pdf" style="text-decoration:none;">Learning Disentangled Representations and Group Structure of Dynamical Environments</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(605).pdf" style="text-decoration:none;">One-Class Collaborative Filtering with the Queryable Variational Autoencoder</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(580).pdf" style="text-decoration:none;">Learning Disentangled Representations of Video with Missing Data</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(606).pdf" style="text-decoration:none;">Deep Critiquing for VAE-based Recommender Systems</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(581).pdf" style="text-decoration:none;">The Autoencoding Variational Autoencoder</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(607).pdf" style="text-decoration:none;">Sliced Wasserstein Auto-Encoders</a></li> 
  
  
  
