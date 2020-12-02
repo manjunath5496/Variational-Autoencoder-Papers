@@ -1078,6 +1078,56 @@ Functional ANOVA with Variational Autoencoders</a></li>
  
  
  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(582).pdf" style="text-decoration:none;">Semi-supervised Learning with Deep Generative Models</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(583).pdf" style="text-decoration:none;">Learning Structured Output Representation using Deep Conditional Generative Models</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(584).pdf" style="text-decoration:none;">Variational Autoencoder for Deep Learning of Images, Labels and Captions</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(585).pdf" style="text-decoration:none;">Learning Disentangled Representations with Semi-Supervised Deep Generative Models</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(586).pdf" style="text-decoration:none;">Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data</a></li> 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(587).pdf" style="text-decoration:none;">Unsupervised Learning of Disentangled Representations from Video</a></li>
+ 
+  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(588).pdf" style="text-decoration:none;">Task-Conditioned Variational Autoencoders for Learning Movement Primitives</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(589).pdf" style="text-decoration:none;"> Overcoming the Disentanglement vs Reconstruction Trade-off via Jacobian Supervision</a></li>
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(590).pdf" style="text-decoration:none;">Content and Style Disentanglement for Artistic Style Transfer</a></li>
+ 
+ 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(591).pdf" style="text-decoration:none;">Variational Laplace Autoencoders</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(592).pdf" style="text-decoration:none;">No Representation without Transformation</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(593).pdf" style="text-decoration:none;">Interpretable Models
+in Probabilistic Machine Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(594).pdf" style="text-decoration:none;">Unsupervised Clustering through Gaussian Mixture Variational AutoEncoder with Non-Reparameterized Variational Inference and Std Annealing</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(595).pdf" style="text-decoration:none;">VAE-BRIDGE: Variational Autoencoder Filter for Bayesian Ridge Imputation of Missing Data</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(596).pdf" style="text-decoration:none;">Topologically-based Variational Autoencoder for Time Series Classification</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(597).pdf" style="text-decoration:none;">Predictive Coding, Variational Autoencoders, and Biological Connections</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(598).pdf" style="text-decoration:none;">PVAE: Learning Disentangled Representations with Intrinsic Dimension via Approximated L0 Regularization </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(599).pdf" style="text-decoration:none;">Unsupervised Representation Learning in Interactive Environments</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(600).pdf" style="text-decoration:none;">Learning to Disentangle Factors of Variation with Manifold Interaction</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(575).pdf" style="text-decoration:none;">Variational Temporal Abstraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(576).pdf" style="text-decoration:none;">CompRess: Self-Supervised Learning by Compressing Representations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(577).pdf" style="text-decoration:none;">Exemplar VAE: Linking Generative Models, Nearest Neighbor Retrieval, and Data Augmentation</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(578).pdf" style="text-decoration:none;">Gradient Boosted Normalizing Flows</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(579).pdf" style="text-decoration:none;">Learning Disentangled Representations and Group Structure of Dynamical Environments</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(580).pdf" style="text-decoration:none;">Learning Disentangled Representations of Video with Missing Data</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(581).pdf" style="text-decoration:none;">The Autoencoding Variational Autoencoder</a></li> 
  
  
  
