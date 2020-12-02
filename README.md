@@ -1002,6 +1002,83 @@ Functional ANOVA with Variational Autoencoders</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(541).pdf" style="text-decoration:none;">Information Constraints on Auto-Encoding Variational Bayes</a></li>   
   
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(542).pdf" style="text-decoration:none;">Invariant Representations without Adversarial Training</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(543).pdf" style="text-decoration:none;">Learning Disentangled Joint Continuous and Discrete Representations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(544).pdf" style="text-decoration:none;">Multimodal Generative Models for Scalable Weakly-Supervised Learning</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(545).pdf" style="text-decoration:none;">Adaptive Density Estimation for Generative Models</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(546).pdf" style="text-decoration:none;">A Latent Variational Framework for Stochastic Optimization</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(547).pdf" style="text-decoration:none;">A Primal-Dual link between GANs and Autoencoders</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(548).pdf" style="text-decoration:none;">Conditional Structure Generation through Graph Variational Generative Adversarial Nets</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(549).pdf" style="text-decoration:none;">Direct Optimization through arg max for Discrete Variational Auto-Encoder</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(550).pdf" style="text-decoration:none;">Discrete Flows: Invertible Generative Models of Discrete Data</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(551).pdf" style="text-decoration:none;">Disentangled behavioral representations</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(552).pdf" style="text-decoration:none;">Disentangling Influence: Using disentangled representations to audit model predictions</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(553).pdf" style="text-decoration:none;">Exact Rate-Distortion in Autoencoders via Echo Noise</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(554).pdf" style="text-decoration:none;">Explicit Disentanglement of Appearance and Perspective in Generative Models</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(555).pdf" style="text-decoration:none;">Explicitly disentangling image content from translation and rotation with spatial-VAE</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(556).pdf" style="text-decoration:none;">Implicit Posterior Variational Inference for Deep Gaussian Processes</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(557).pdf" style="text-decoration:none;">Invertible Convolutional Flow</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(558).pdf" style="text-decoration:none;">Learning Disentangled Representation for Robust Person Re-identification</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(559).pdf" style="text-decoration:none;">Learning Hierarchical Priors in VAEs</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(560).pdf" style="text-decoration:none;">Learning-In-The-Loop Optimization: End-To-End Control And Co-Design of Soft Robots Through Learned Deep Latent Representations</a></li> 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(561).pdf" style="text-decoration:none;">MaCow: Masked Convolutional Generative Flow</a></li>
+ 
+  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(562).pdf" style="text-decoration:none;">MAVEN: Multi-Agent Variational Exploration</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(563).pdf" style="text-decoration:none;"> ODE2VAE: Deep generative second order ODEs with Bayesian neural networks</a></li>
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(564).pdf" style="text-decoration:none;">Provable Gradient Variance Guarantees for Black-Box Variational Inference</a></li>
+ 
+ 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(565).pdf" style="text-decoration:none;">Re-examination of the Role of Latent Variables in Sequence Modeling</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(566).pdf" style="text-decoration:none;">Residual Flows for Invertible Generative Modeling</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(567).pdf" style="text-decoration:none;">Scalable Spike Source Localization in Extracellular Recordings using Amortized Variational Inference</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(568).pdf" style="text-decoration:none;">Semi-Implicit Graph Variational Auto-Encoders</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(569).pdf" style="text-decoration:none;">Symmetry-Based Disentangled Representation Learning requires Interaction with Environments</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(570).pdf" style="text-decoration:none;">The continuous Bernoulli: fixing a pervasive error in variational autoencoders</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(571).pdf" style="text-decoration:none;">The Thermodynamic Variational Objective</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(572).pdf" style="text-decoration:none;">Triad Constraints for Learning Causal Structure of Latent Variables </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(573).pdf" style="text-decoration:none;">Variational Graph Recurrent Neural Networks</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(574).pdf" style="text-decoration:none;">Variational Mixture-of-Experts Autoencoders for Multi-Modal Deep Generative Models</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(575).pdf" style="text-decoration:none;">Variational Temporal Abstraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(576).pdf" style="text-decoration:none;">CompRess: Self-Supervised Learning by Compressing Representations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(577).pdf" style="text-decoration:none;">Exemplar VAE: Linking Generative Models, Nearest Neighbor Retrieval, and Data Augmentation</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(578).pdf" style="text-decoration:none;">Gradient Boosted Normalizing Flows</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(579).pdf" style="text-decoration:none;">Learning Disentangled Representations and Group Structure of Dynamical Environments</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(580).pdf" style="text-decoration:none;">Learning Disentangled Representations of Video with Missing Data</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(581).pdf" style="text-decoration:none;">The Autoencoding Variational Autoencoder</a></li> 
+ 
+ 
+ 
+ 
  
  
  
