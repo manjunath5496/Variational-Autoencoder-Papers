@@ -982,45 +982,25 @@ Controlling Information in Latent Code Representations</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(529).pdf" style="text-decoration:none;">Learning Disentangled Representations with Wasserstein Auto-Encoders</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(530).pdf" style="text-decoration:none;">Learning Latent Superstructures in Variational Autoencoders for Deep Multidimensional Clustering</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(531).pdf" style="text-decoration:none;">Learning Robust Representations by Projecting Superficial Statistics Out</a></li>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(466).pdf" style="text-decoration:none;">Counterfactual Fairness with Disentangled Causal Effect Variational Autoencoder</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(467).pdf" style="text-decoration:none;"> Integration of variational autoencoder and spatial clustering for adaptive multi-channel neural speech separation </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(468).pdf" style="text-decoration:none;">Adaptive Efficient Coding: A Variational Auto-encoder Approach</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(532).pdf" style="text-decoration:none;"> Wild Variational Approximations </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(533).pdf" style="text-decoration:none;">Reverse Variational Autoencoder for Visual Attribute Manipulation and Anomaly Detection</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(469).pdf" style="text-decoration:none;">Predictive Auxiliary Variational Autoencoder for Representation Learning of Global Speech Characteristics</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(470).pdf" style="text-decoration:none;">Dispersed Exponential Family Mixture VAEs for Interpretable Text Generation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(471).pdf" style="text-decoration:none;">The information bottleneck method</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(472).pdf" style="text-decoration:none;">InfoGAN-CR and ModelCentrality: Self-supervised Model Training and Selection for Disentangling GANs</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(534).pdf" style="text-decoration:none;">Causal Discovery with Attention-Based Convolutional Neural Networks</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(535).pdf" style="text-decoration:none;">Neural Decomposition:
+Functional ANOVA with Variational Autoencoders</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(536).pdf" style="text-decoration:none;">Max-Affine Spline Insights into Deep Generative Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(537).pdf" style="text-decoration:none;">Mixtures of Variational Autoencoders</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(473).pdf" style="text-decoration:none;">Empirical Study of the Benefits of Overparameterization in Learning Latent Variable Models</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(538).pdf" style="text-decoration:none;">Translating Visual Art into Music</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(474).pdf" style="text-decoration:none;">Distribution Augmentation for Generative Modeling</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(539).pdf" style="text-decoration:none;">Dual Swap Disentangling</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(475).pdf" style="text-decoration:none;">Variational Bayesian Quantization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(540).pdf" style="text-decoration:none;">Gaussian Process Prior Variational Autoencoders</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(476).pdf" style="text-decoration:none;">Variational inference II</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(541).pdf" style="text-decoration:none;">Information Constraints on Auto-Encoding Variational Bayes</a></li>   
   
  
  
