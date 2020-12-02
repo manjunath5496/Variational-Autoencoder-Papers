@@ -1129,7 +1129,34 @@ in Probabilistic Machine Learning</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(607).pdf" style="text-decoration:none;">Sliced Wasserstein Auto-Encoders</a></li> 
  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(608).pdf" style="text-decoration:none;">Multi-Task with Variational Autoencoder for Lung Cancer Prognosis on Clinical Data</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(609).pdf" style="text-decoration:none;">Faster Attend-Infer-Repeat with Tractable Probabilistic Models</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(610).pdf" style="text-decoration:none;">The Mutual Autoencoder: Controlling Information in Latent Code Representations</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(611).pdf" style="text-decoration:none;">Semi-supervised Self-produced Speech Enhancement and Suppression Based on Joint Source Modeling of Air- and Body-conducted Signals Using Variational Autoencoder</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(612).pdf" style="text-decoration:none;">Hierarchical Disentanglement of Discriminative Latent Features for Zero-shot Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(613).pdf" style="text-decoration:none;">Transforming Auto-encoders</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(614).pdf" style="text-decoration:none;">Understanding Posterior Collapse in Generative Latent Variable Models</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(615).pdf" style="text-decoration:none;">Unsupervised Discovery of Interpretable Latent Manipulations in Language VAEs</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(616).pdf" style="text-decoration:none;">A Survey on Generative Adversarial Networks for imbalance problems in computer vision tasks</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(617).pdf" style="text-decoration:none;">Variational Autoencoder and Extensions</a></li> 
  
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(618).pdf" style="text-decoration:none;">DVAE++: Discrete Variational Autoencoders with Overlapping Transformations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(619).pdf" style="text-decoration:none;">Variational Autoencoders with Jointly Optimized Latent Dependency Structure</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(620).pdf" style="text-decoration:none;">Variational Learning with Disentanglement-PyTorch</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(621).pdf" style="text-decoration:none;">Variational online learning of neural dynamics</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(622).pdf" style="text-decoration:none;">Non-parallel Voice Conversion based on Hierarchical Latent Embedding Vector Quantized Variational Autoencoder</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(623).pdf" style="text-decoration:none;">A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(624).pdf" style="text-decoration:none;">A Semi-supervised Deep Generative Model for Human Body Analysis</a></li> 
  
  
  </ul>
