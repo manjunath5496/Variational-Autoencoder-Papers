@@ -712,7 +712,7 @@ Learned Latent Structure</a></li>
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(386).pdf" style="text-decoration:none;">Efficient Learning of Generative Models via Finite-Difference Score Matching</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(387).pdf" style="text-decoration:none;">Beneting Deep Latent Variable Models via Learning the Prior and Removing Latent Regularization</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(387).pdf" style="text-decoration:none;">Benefiting Deep Latent Variable Models via Learning the Prior and Removing Latent Regularization</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Variational-Autoencoder-Papers/blob/master/vae(388).pdf" style="text-decoration:none;">Contrastive Code Representation Learning</a></li> 
  
